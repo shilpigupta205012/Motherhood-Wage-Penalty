@@ -1,1 +1,3 @@
 # Motherhood-Wage-Penalty
+
+Does having children can make women earn less? It is a well-known empirical phenomena that women who do not have children are paid more on average than women who have children as Mothers in the workforce experience additional disadvantage compared to women who are not mothers, including a per-child wage penalty. We will be using the data to investigate the wage penalty size that a mother faces in the USA, we will investigate whether the differences observed represent the casual effect of motherhood and will try to consider the degree to which these differences have changed over time. 
